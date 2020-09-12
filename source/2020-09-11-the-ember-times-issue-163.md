@@ -10,7 +10,7 @@ responsive: true
 
 Learn what's new in the Ember 3.21 release 🎉,
 Embroider preparation blog post 📖,
-get ready for Hacktoberfest 2020 👩🏽‍💻🧑🏽‍💻,
+Get ready for Hacktoberfest 2020 👩🏽‍💻🧑🏽‍💻,
 CI with GitHub Actions for Ember Apps: Part 2 🎥,
 and last, but not least, celebrate 3 addon major releases 🌟!
 
