@@ -9,3 +9,4 @@ enabled = true
     "nodejs",
     "browser"
   ]
+  plugins = ['ember']
